@@ -173,9 +173,9 @@
   integrity sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==
 
 "@types/node@18":
-  version "18.19.122"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.19.122.tgz#e7358f8df7cc3f14e860198e1ca4dc2ed9a7de06"
-  integrity sha512-yzegtT82dwTNEe/9y+CM8cgb42WrUfMMCg2QqSddzO1J6uPmBD7qKCZ7dOHZP2Yrpm/kb0eqdNMn2MUyEiqBmA==
+  version "18.19.126"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.19.126.tgz#b1a9e0bac6338098f465ab242cbd6a8884d79b80"
+  integrity sha512-8AXQlBfrGmtYJEJUPs63F/uZQqVeFiN9o6NUjbDJYfxNxFnArlZufANPw4h6dGhYGKxcyw+TapXFvEsguzIQow==
   dependencies:
     undici-types "~5.26.4"
 
